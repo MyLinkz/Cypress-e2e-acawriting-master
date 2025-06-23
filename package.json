@@ -1,0 +1,31 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cypress open",
+    "test": "cypress run --browser chrome --headed",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cy-verify-downloads": "^0.1.15",
+    "cypress": "^14.1.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-wait-until": "^3.0.2",
+    "dotenv": "^16.0.3",
+    "mocha": "^11.1.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "cypress-image-diff-js": "^1.26.0",
+    "cypress-visual-regression": "^3.0.0",
+    "e2e": "file:",
+    "exceljs": "^4.4.0",
+    "faker": "^5.5.3",
+    "node-fetch": "^2.7.0"
+  }
+}

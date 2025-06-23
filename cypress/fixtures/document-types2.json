@@ -1,0 +1,794 @@
+[
+	{
+		"id": 61,
+		"title": "Accounting",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 62,
+		"title": "Agriculture",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 105,
+		"title": "Algebra",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 103,
+		"title": "American History",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 104,
+		"title": "American Literature",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 102,
+		"title": "Anatomy",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 106,
+		"title": "Animal Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 63,
+		"title": "Anthropology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 64,
+		"title": "Application Writing",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 65,
+		"title": "Architecture",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 32,
+		"title": "Art",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 54,
+		"title": "Astronomy (and other Space Studies)",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 107,
+		"title": "Atmospheric Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 55,
+		"title": "Aviation",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 56,
+		"title": "Biology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 19,
+		"title": "Business and Management ",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 108,
+		"title": "Career and Professional Development",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 57,
+		"title": "Chemistry",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 59,
+		"title": "Civil Engineering",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 60,
+		"title": "Classic English Literature",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 48,
+		"title": "Communications and Media",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 49,
+		"title": "Composition",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 28,
+		"title": "Computer Sciences",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 152,
+		"title": "Construction",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 50,
+		"title": "Criminal Justice",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 51,
+		"title": "Criminal Law",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 98,
+		"title": "Criminology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 111,
+		"title": "Cryptocurrency",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 52,
+		"title": "Cultural and Ethnic Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 141,
+		"title": "Culture and Society",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 97,
+		"title": "Cyber Security",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 109,
+		"title": "Dance",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 144,
+		"title": "Data Analysis",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 110,
+		"title": "Data Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 147,
+		"title": "Defense and Security Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 112,
+		"title": "Dentistry",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 96,
+		"title": "Design and Technology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 114,
+		"title": "Digital Sciences",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 138,
+		"title": "Digital Society",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 113,
+		"title": "Drama and Theatre",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 53,
+		"title": "Ecology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 21,
+		"title": "Economics ",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 23,
+		"title": "Education",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 115,
+		"title": "Employee Welfare",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 45,
+		"title": "Engineering",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 18,
+		"title": "English",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 89,
+		"title": "English 101",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 91,
+		"title": "English 102",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 46,
+		"title": "Environmental Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 95,
+		"title": "ESS",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 88,
+		"title": "Ethics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 47,
+		"title": "Family and Child Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 140,
+		"title": "Family and Consumer Science Education",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 116,
+		"title": "Fashion",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 117,
+		"title": "Feminism",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 38,
+		"title": "Finance",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 118,
+		"title": "Food and Culinary Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 119,
+		"title": "Forensic Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 120,
+		"title": "Gender Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 39,
+		"title": "Geography",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 121,
+		"title": "Geology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 122,
+		"title": "Global Issues and Disasters",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 146,
+		"title": "Global Politics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 123,
+		"title": "Global Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 40,
+		"title": "Health Care",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 22,
+		"title": "History",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 124,
+		"title": "Hospitality Management",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 42,
+		"title": "Human Resources Management (HRM)",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 154,
+		"title": "Humanities",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 101,
+		"title": "Information Ethics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 127,
+		"title": "Innovation and Technology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 92,
+		"title": "International Baccalaureate",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 155,
+		"title": "International law",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 34,
+		"title": "International Relations",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 36,
+		"title": "International Trade",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 125,
+		"title": "Internet Technology (IT)",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 126,
+		"title": "Investing and Financial Markets",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 30,
+		"title": "Law",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 35,
+		"title": "Leadership Studies ",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 27,
+		"title": "Life Sciences",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 33,
+		"title": "Linguistics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 87,
+		"title": "Literature",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 81,
+		"title": "Logistics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 20,
+		"title": "Marketing",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 29,
+		"title": "Mathematics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 151,
+		"title": "Media and Content Strategy",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 83,
+		"title": "Medical Sciences (Anatomy, Physiology, Pharmacology etc.)",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 82,
+		"title": "Medicine",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 128,
+		"title": "Military Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 150,
+		"title": "Military studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 84,
+		"title": "Music",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 94,
+		"title": "Natural Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 99,
+		"title": "Neuroscience",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 77,
+		"title": "Nursing",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 78,
+		"title": "Nutrition",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 148,
+		"title": "Peace and Conflict Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 26,
+		"title": "Philosophy",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 79,
+		"title": "Physics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 142,
+		"title": "Poems",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 80,
+		"title": "Poetry",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 24,
+		"title": "Political science ",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 129,
+		"title": "Programming",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 156,
+		"title": "Project management",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 86,
+		"title": "Psychology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 71,
+		"title": "Public Administration",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 90,
+		"title": "Public Health",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 72,
+		"title": "Public Relations",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 93,
+		"title": "Recommendation",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 131,
+		"title": "Research Methods",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 130,
+		"title": "Scholarship Writing",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 139,
+		"title": "SEHS",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 132,
+		"title": "Sex Education",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 74,
+		"title": "Shakespeare",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 100,
+		"title": "Social science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 75,
+		"title": "Social Work and Human Services",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 25,
+		"title": "Sociology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 133,
+		"title": "Special Education",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 76,
+		"title": "Sports",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 143,
+		"title": "Statistical Analysis",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 44,
+		"title": "Statistics",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 145,
+		"title": "Supply Chain",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 66,
+		"title": "Technology",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 134,
+		"title": "Telecommunications",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 73,
+		"title": "Theology and Religion",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 85,
+		"title": "Theory of Knowledge",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 67,
+		"title": "Tourism",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 136,
+		"title": "Trigonometry",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 68,
+		"title": "Urban Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 149,
+		"title": "Veterans Studies",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 135,
+		"title": "Veterinary Science",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 69,
+		"title": "Women's and Gender Studies ",
+		"is_default": 0,
+		"is_removable": true
+	},
+	{
+		"id": 153,
+		"title": "World Studies",
+		"is_default": 0,
+		"is_removable": true
+	}
+]

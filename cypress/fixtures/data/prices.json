@@ -1,0 +1,366 @@
+{
+  "data": {
+    "prices": [
+      {
+        "urgency": {
+          "title": "8  hours"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 29.99
+      },
+      {
+        "urgency": {
+          "title": "16 hours"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 24.99
+      },
+      {
+        "urgency": {
+          "title": "24 hours"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 21.99
+      },
+      {
+        "urgency": {
+          "title": "5 days"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 16.99
+      },
+      {
+        "urgency": {
+          "title": "8  hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 33.99
+      },
+      {
+        "urgency": {
+          "title": "16 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 29.99
+      },
+      {
+        "urgency": {
+          "title": "24 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 26.99
+      },
+      {
+        "urgency": {
+          "title": "5 days"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 20.99
+      },
+      {
+        "urgency": {
+          "title": "8  hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 37.99
+      },
+      {
+        "urgency": {
+          "title": "16 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 32.99
+      },
+      {
+        "urgency": {
+          "title": "24 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 28.99
+      },
+      {
+        "urgency": {
+          "title": "5 days"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 23.99
+      },
+      {
+        "urgency": {
+          "title": "8  hours"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 48.99
+      },
+      {
+        "urgency": {
+          "title": "16 hours"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 40.99
+      },
+      {
+        "urgency": {
+          "title": "24 hours"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 36.99
+      },
+      {
+        "urgency": {
+          "title": "5 days"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 27.99
+      },
+      {
+        "urgency": {
+          "title": "8  hours"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 65.99
+      },
+      {
+        "urgency": {
+          "title": "16 hours"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 55.99
+      },
+      {
+        "urgency": {
+          "title": "24 hours"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 45.99
+      },
+      {
+        "urgency": {
+          "title": "5 days"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 32.99
+      },
+      {
+        "urgency": {
+          "title": "48 hours"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 31.99
+      },
+      {
+        "urgency": {
+          "title": "48 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 23.99
+      },
+      {
+        "urgency": {
+          "title": "48 hours"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 19.99
+      },
+      {
+        "urgency": {
+          "title": "48 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 26.99
+      },
+      {
+        "urgency": {
+          "title": "48 hours"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 39.99
+      },
+      {
+        "urgency": {
+          "title": "10 days"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 13.99
+      },
+      {
+        "urgency": {
+          "title": "10 days"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 17.99
+      },
+      {
+        "urgency": {
+          "title": "10 days"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 19.99
+      },
+      {
+        "urgency": {
+          "title": "10 days"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 26.99
+      },
+      {
+        "urgency": {
+          "title": "10 days"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 29.99
+      },
+      {
+        "urgency": {
+          "title": "5 hours"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 33.99
+      },
+      {
+        "urgency": {
+          "title": "5 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 41.99
+      },
+      {
+        "urgency": {
+          "title": "5 hours"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 47.99
+      },
+      {
+        "urgency": {
+          "title": "5 hours"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 57.99
+      },
+      {
+        "urgency": {
+          "title": "5 hours"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 79.99
+      },
+      {
+        "urgency": {
+          "title": "30 days"
+        },
+        "level": {
+          "title": "High School"
+        },
+        "price": 11.99
+      },
+      {
+        "urgency": {
+          "title": "30 days"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 1-2)"
+        },
+        "price": 15.99
+      },
+      {
+        "urgency": {
+          "title": "30 days"
+        },
+        "level": {
+          "title": "Undergrad. (yrs 3-4)"
+        },
+        "price": 17.99
+      },
+      {
+        "urgency": {
+          "title": "30 days"
+        },
+        "level": {
+          "title": "Graduate"
+        },
+        "price": 24.99
+      },
+      {
+        "urgency": {
+          "title": "30 days"
+        },
+        "level": {
+          "title": "Ph.D."
+        },
+        "price": 27.99
+      }
+    ]
+  }
+}

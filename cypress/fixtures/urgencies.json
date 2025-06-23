@@ -1,0 +1,50 @@
+[
+	{
+		"id": 7,
+		"title": "5 hours",
+		"urgency": 5,
+		"is_default": 0
+	},
+	{
+		"id": 1,
+		"title": "8  hours",
+		"urgency": 8,
+		"is_default": 0
+	},
+	{
+		"id": 2,
+		"title": "16 hours",
+		"urgency": 16,
+		"is_default": 0
+	},
+	{
+		"id": 3,
+		"title": "24 hours",
+		"urgency": 24,
+		"is_default": 0
+	},
+	{
+		"id": 5,
+		"title": "48 hours",
+		"urgency": 48,
+		"is_default": 1
+	},
+	{
+		"id": 4,
+		"title": "5 days",
+		"urgency": 120,
+		"is_default": 0
+	},
+	{
+		"id": 6,
+		"title": "10 days",
+		"urgency": 240,
+		"is_default": 0
+	},
+	{
+		"id": 8,
+		"title": "30 days",
+		"urgency": 720,
+		"is_default": 0
+	}
+]

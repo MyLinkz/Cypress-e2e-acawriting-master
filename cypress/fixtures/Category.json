@@ -1,0 +1,41 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": "1",
+        "title": "BEST AVAILABLE",
+        "description": "Standard price",
+        "percent": 0,
+        "is_default": true
+      },
+      {
+        "id": "2",
+        "title": "ADVANCED (+25%)",
+        "description": "High-rank professional writer, proficient in the requested field of study",
+        "percent": 25,
+        "is_default": false
+      },
+      {
+        "id": "3",
+        "title": "ENL (+35%)",
+        "description": "English as a native language writer (US, UK, CA, AU writers)",
+        "percent": 35,
+        "is_default": false
+      },
+      {
+        "id": "4",
+        "title": "IB Specialist, SL Level (+35%)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "percent": 35,
+        "is_default": false
+      },
+      {
+        "id": "5",
+        "title": "IB Expert, HL Level (+50%)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "percent": 50,
+        "is_default": false
+      }
+    ]
+  }
+}

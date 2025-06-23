@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "High School",
+		"is_default": 0
+	},
+	{
+		"id": 2,
+		"title": "Undergrad. (yrs 1-2)",
+		"is_default": 0
+	},
+	{
+		"id": 3,
+		"title": "Undergrad. (yrs 3-4)",
+		"is_default": 1
+	},
+	{
+		"id": 4,
+		"title": "Master's",
+		"is_default": 0
+	},
+	{
+		"id": 5,
+		"title": "Doctoral",
+		"is_default": 0
+	},
+	{
+		"id": 6,
+		"title": "IB Level",
+		"is_default": 0
+	}
+]

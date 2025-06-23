@@ -1,0 +1,386 @@
+[
+	{
+		"id": 1,
+		"urgency_id": 1,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "29.99",
+		"urgency": 8
+	},
+	{
+		"id": 2,
+		"urgency_id": 2,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "24.99",
+		"urgency": 16
+	},
+	{
+		"id": 3,
+		"urgency_id": 3,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "21.99",
+		"urgency": 24
+	},
+	{
+		"id": 4,
+		"urgency_id": 4,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "16.99",
+		"urgency": 120
+	},
+	{
+		"id": 5,
+		"urgency_id": 1,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "33.99",
+		"urgency": 8
+	},
+	{
+		"id": 6,
+		"urgency_id": 2,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "29.99",
+		"urgency": 16
+	},
+	{
+		"id": 7,
+		"urgency_id": 3,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "26.99",
+		"urgency": 24
+	},
+	{
+		"id": 8,
+		"urgency_id": 4,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "20.99",
+		"urgency": 120
+	},
+	{
+		"id": 9,
+		"urgency_id": 1,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "37.99",
+		"urgency": 8
+	},
+	{
+		"id": 10,
+		"urgency_id": 2,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "32.99",
+		"urgency": 16
+	},
+	{
+		"id": 11,
+		"urgency_id": 3,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "28.99",
+		"urgency": 24
+	},
+	{
+		"id": 12,
+		"urgency_id": 4,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "23.99",
+		"urgency": 120
+	},
+	{
+		"id": 13,
+		"urgency_id": 1,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "48.99",
+		"urgency": 8
+	},
+	{
+		"id": 14,
+		"urgency_id": 2,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "40.99",
+		"urgency": 16
+	},
+	{
+		"id": 15,
+		"urgency_id": 3,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "36.99",
+		"urgency": 24
+	},
+	{
+		"id": 16,
+		"urgency_id": 4,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "27.99",
+		"urgency": 120
+	},
+	{
+		"id": 17,
+		"urgency_id": 1,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "65.99",
+		"urgency": 8
+	},
+	{
+		"id": 18,
+		"urgency_id": 2,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "55.99",
+		"urgency": 16
+	},
+	{
+		"id": 19,
+		"urgency_id": 3,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "45.99",
+		"urgency": 24
+	},
+	{
+		"id": 20,
+		"urgency_id": 4,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "32.99",
+		"urgency": 120
+	},
+	{
+		"id": 21,
+		"urgency_id": 5,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "31.99",
+		"urgency": 48
+	},
+	{
+		"id": 22,
+		"urgency_id": 5,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "23.99",
+		"urgency": 48
+	},
+	{
+		"id": 24,
+		"urgency_id": 5,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "19.99",
+		"urgency": 48
+	},
+	{
+		"id": 25,
+		"urgency_id": 5,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "26.99",
+		"urgency": 48
+	},
+	{
+		"id": 26,
+		"urgency_id": 5,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "39.99",
+		"urgency": 48
+	},
+	{
+		"id": 30,
+		"urgency_id": 6,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "13.99",
+		"urgency": 240
+	},
+	{
+		"id": 31,
+		"urgency_id": 6,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "17.99",
+		"urgency": 240
+	},
+	{
+		"id": 32,
+		"urgency_id": 6,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "19.99",
+		"urgency": 240
+	},
+	{
+		"id": 33,
+		"urgency_id": 6,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "26.99",
+		"urgency": 240
+	},
+	{
+		"id": 34,
+		"urgency_id": 6,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "29.99",
+		"urgency": 240
+	},
+	{
+		"id": 35,
+		"urgency_id": 7,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "33.99",
+		"urgency": 5
+	},
+	{
+		"id": 36,
+		"urgency_id": 7,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "41.99",
+		"urgency": 5
+	},
+	{
+		"id": 37,
+		"urgency_id": 7,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "47.99",
+		"urgency": 5
+	},
+	{
+		"id": 38,
+		"urgency_id": 7,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "57.99",
+		"urgency": 5
+	},
+	{
+		"id": 39,
+		"urgency_id": 7,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "79.99",
+		"urgency": 5
+	},
+	{
+		"id": 79,
+		"urgency_id": 7,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "49.99",
+		"urgency": 5
+	},
+	{
+		"id": 80,
+		"urgency_id": 1,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "45.99",
+		"urgency": 8
+	},
+	{
+		"id": 81,
+		"urgency_id": 2,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "39.99",
+		"urgency": 16
+	},
+	{
+		"id": 82,
+		"urgency_id": 3,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "34.99",
+		"urgency": 24
+	},
+	{
+		"id": 83,
+		"urgency_id": 5,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "29.99",
+		"urgency": 48
+	},
+	{
+		"id": 84,
+		"urgency_id": 4,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "25.99",
+		"urgency": 120
+	},
+	{
+		"id": 85,
+		"urgency_id": 6,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "23.99",
+		"urgency": 240
+	},
+	{
+		"id": 86,
+		"urgency_id": 8,
+		"academic_level_id": 1,
+		"provider_id": 1,
+		"price": "11.99",
+		"urgency": 720
+	},
+	{
+		"id": 87,
+		"urgency_id": 8,
+		"academic_level_id": 2,
+		"provider_id": 1,
+		"price": "15.99",
+		"urgency": 720
+	},
+	{
+		"id": 88,
+		"urgency_id": 8,
+		"academic_level_id": 3,
+		"provider_id": 1,
+		"price": "17.99",
+		"urgency": 720
+	},
+	{
+		"id": 89,
+		"urgency_id": 8,
+		"academic_level_id": 4,
+		"provider_id": 1,
+		"price": "24.99",
+		"urgency": 720
+	},
+	{
+		"id": 90,
+		"urgency_id": 8,
+		"academic_level_id": 5,
+		"provider_id": 1,
+		"price": "27.99",
+		"urgency": 720
+	},
+	{
+		"id": 91,
+		"urgency_id": 8,
+		"academic_level_id": 6,
+		"provider_id": 1,
+		"price": "21.99",
+		"urgency": 720
+	}
+]

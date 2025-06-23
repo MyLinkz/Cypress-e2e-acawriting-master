@@ -1,0 +1,84 @@
+{
+    "orderType": {
+        "title": "rewriting",
+        "description": "Transform AI-generated or plagiarized content into completely original, high-quality academic writing tailored to your requirements.",
+        "id": "rewriting"
+    },
+    "useWallet": 0,
+    "academicLevel": {
+        "id": 1,
+        "title": "High School",
+        "isActive": false,
+        "isIB": false,
+        "isDefault": false,
+        "isFavorite": false,
+        "description": "Ideal for high school students, including those enrolled in the IB program."
+    },
+    "urgency": 20,
+    "paymentMethod": "PAYPAL",
+    "step": 9,
+    "balance": 0,
+    "isWallet": false,
+    "sources": 0,
+    "skipSources": 0,
+    "stepPassed": 8,
+    "discipline": {
+        "id": 21,
+        "title": "Economics ",
+        "isActive": false,
+        "isIB": false,
+        "isDefault": false,
+        "isFavorite": false,
+        "description": ""
+    },
+    "documentType": {
+        "id": 33,
+        "title": "Research Paper",
+        "isActive": false,
+        "isIB": true,
+        "isDefault": false,
+        "isFavorite": false,
+        "description": ""
+    },
+    "topic": "Lorem ipsum",
+    "instructions": "<p style=\"margin-left: 0px; text-align: left\">Lorem ipsum</p>",
+    "files": [
+        {
+            "id": "197e56b97a27383ea60edbecb42f919f",
+            "name": "6MB.bin",
+            "type": "bin",
+            "size": "5.7 MB",
+            "isCompleted": true,
+            "isInvalid": false,
+            "error": null,
+            "path": "/draft/197e56b97a27383ea60edbecb42f919f"
+        }
+    ],
+    "citationStyle": {
+        "id": 3,
+        "title": "MLA",
+        "isActive": false,
+        "isIB": false,
+        "isDefault": false,
+        "isFavorite": false,
+        "description": "Telemedicine offers huge benefits in improving access to and enhancing the efficiency of healthcare, especially for people residing in rural areas (Monaghesh and Hajzadeh 2)."
+    },
+    "pages": 9,
+    "spacing": 1,
+    "slideNumbers": 0,
+    "writerCategory": {
+        "id": 4,
+        "key": "writer_4",
+        "title": "IB Specialist, SL Level (+35%)",
+        "percent": 35,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "isActive": false,
+        "visibility": "ib"
+    },
+    "abstractPage": true,
+    "prevWriter": {
+        "id": 93376,
+        "title": "#00093376 s",
+        "uid": "#00093376"
+    }
+}
